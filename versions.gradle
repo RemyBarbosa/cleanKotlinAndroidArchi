@@ -1,0 +1,27 @@
+ext {
+    versionCode = 1
+    versionName = "1.0.0"
+
+    // Kotlin
+    kotlinVersion = '1.3.21'
+
+    // Android Sdk and tools
+    androidGradlePlugin = '3.2.1'
+    gmsGradleVersion = '3.1.2'
+    compileSdkVersion = 28
+    buildToolsVersion = "28.0.3"
+    minSdkVersion = 19
+    targetSdkVersion = 28
+
+    // Google
+    supportVersion = "28.0.0"
+    contraintLayoutVersion = "1.1.1"
+    androidArchiLifecycleVersion = "1.1.1"
+    androidArchiRoomVersion = "1.1.1"
+
+    //Others
+    koinVersion = "1.0.2"
+    rxJavaVersion = "2.1.16"
+    rxAndroidVersion = "2.0.2"
+    jodaTimeVersion = "2.10.1"
+}
