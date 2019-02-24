@@ -15,9 +15,12 @@ ext {
 
     // Google
     supportVersion = "28.0.0"
-    contraintLayoutVersion = "1.1.1"
+    contraintLayoutVersion = "1.1.3"
     androidArchiLifecycleVersion = "1.1.1"
     androidArchiRoomVersion = "1.1.1"
+
+    // Square versions
+    retrofitVersion = "2.2.0"
 
     //Others
     koinVersion = "1.0.2"
